@@ -11,15 +11,15 @@ Start Bootrun
 ./gradlew bootRun
 ```
 
-npm 의존성 설치 및 Vue 시작c
+npm 의존성 설치 및 Vue 시작
 ```
 cd client
 npm install
 npm start
 ```
 
-http://localhost:8081/#/
-Swagger: http://localhost:8080/swagger-ui.html
+- http://localhost:8081/#/
+- Swagger: http://localhost:8080/swagger-ui.html
    
 ## 입력 
 * url
