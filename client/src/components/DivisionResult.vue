@@ -13,7 +13,7 @@
 
 <script>
   export default {
-    name: "Result",
+    name: "DivisionResult",
     data: {},
     computed: {
       result: function () {

@@ -1,5 +1,5 @@
 <template>
-  <div class="hello">
+  <div class="crawler">
     <label for="url">URL</label>
     <input id="url" v-model="url" type="text" class="input-url input" placeholder="url을 입력해주세요."/>
 
@@ -26,7 +26,7 @@
   import * as types from '../store/types';
 
   export default {
-    name: 'HelloWorld',
+    name: 'Crawler',
     components: {DivisionResult},
     data() {
       return {
